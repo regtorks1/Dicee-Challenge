@@ -39,3 +39,23 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#rollClick{
+  position: relative;
+  right: -640px;
+  top: 40px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(114, 100, 100);
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+
+}
+
+#rollClick:hover{
+  cursor: pointer;
+  background-color: royalblue;
+  color:black
+}
+
